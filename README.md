@@ -1,5 +1,5 @@
 # echo.ac emulator (works also on linux!)
-Hate stupid idea of forcing users to install by random people (aka server administrators) proprietary software with [code of questionable quality](https://github.com/kite03/echoac-poc). \
+Hate stupid idea of forcing users by random people (aka server administrators) to install proprietary software with [code of questionable quality](https://github.com/kite03/echoac-poc). \
 So here it is - a free as in freedom and open-source echo.ac client implementation.
 
 > [!WARNING]
