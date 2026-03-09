@@ -18,8 +18,8 @@ func main() {
 		os.Exit(1)
 	}
 
-	hwid := "9332b0189f9d3a56b8c61688a8b30021"
-	scanFile := "./pliki/cpvp/zdj.json"
+	hwid := "9332b0189f9d3a56b8c61688a8b30020"
+	scanFile := "./solution.json"
 	token := os.Args[1]
 
 	auth := fmt.Sprintf("%s <[%%%%%s%%%%]>", token, hwid)

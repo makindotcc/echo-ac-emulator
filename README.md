@@ -9,5 +9,5 @@ So here it is - a free as in freedom and open-source echo.ac client implementati
 
 ## Usage
 ```nu
-go run main.go ./solution.json
+go run main.go ENTER_ECHO_PIN_HERE
 ```
